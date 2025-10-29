@@ -1,0 +1,65 @@
+=== Looping Dictionary ===
+
+1. Looping keys:
+apel 3
+pisang 5
+jeruk 2
+
+2. Looping values:
+Jumlah: 3
+Jumlah: 5
+Jumlah: 2
+
+3. Looping dengan .items():
+apel -> 3
+pisang -> 5
+jeruk -> 2
+
+4. Looping terurut:
+apel 3
+jeruk 2
+pisang 5
+
+4b. Berdasarkan value (descending):
+pisang 5
+apel 3
+jeruk 2
+
+5. Looping dengan enumerate:
+1 apel 3
+2 pisang 5
+3 jeruk 2
+
+6. Nested Dictionary:
+andi
+   nilai = 80
+   kelas = A
+
+budi
+   nilai = 75
+   kelas = B
+
+citra
+   nilai = 90
+   kelas = A
+
+7. Modifikasi dictionary (hapus ganjil):
+Sisa: {'b': 2}
+
+8. Dictionary comprehension:
+Lulus: {'andi': 80, 'citra': 90}
+Skala 0–1: {'andi': 0.8, 'budi': 0.75, 'citra': 0.9}
+
+9. Contoh latihan inventory:
+Perlu restock: ['spidol']
+
+Inventory setelah restock:
+buku 10
+penghapus 12
+pensil 25
+spidol 15
+
+=== SELESAI ===
+
+
+** Process exited - Return Code: 0 **
